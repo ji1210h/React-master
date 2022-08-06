@@ -1,5 +1,5 @@
 ## 🌐React 스터디
-![모던자바스크립트 썸네일](https://user-images.githubusercontent.com/101804857/183249087-af6d3949-2eb6-4f83-80e3-1d212ad06dc7.png)
+![react-logo](https://user-images.githubusercontent.com/101804857/183254442-a45dc349-8169-4e48-a2d0-6eacf21bc105.png)
 
 
 ##  🥇React 마스터 되기!!
